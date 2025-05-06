@@ -5,8 +5,8 @@ How to run the College  Admission management System  Project
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name camsdb
 6. Import camsdb.sql file(given inside the zip package in sql file folder)
-7.Run the script http://localhost/uams (frontend)
-8. For admin panel http://localhost/uams/admin  (admin panel)
+7.Run the script http://localhost/cams (frontend)
+8. For admin panel http://localhost/cams/admin  (admin panel)
 
 Credential for admin panel :
 username : admin
